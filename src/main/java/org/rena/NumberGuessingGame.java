@@ -63,6 +63,7 @@ public class NumberGuessingGame {
             playAgain = answer.equalsIgnoreCase("yes");
         }
         System.out.println("Thank You For Playing. \nFinal Score: " + score);
+        sc.close();
 
     }
 

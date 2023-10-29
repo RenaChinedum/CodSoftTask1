@@ -1,4 +1,4 @@
-# CodSoftTask1
+# Number Game
 
 A number game where a player guesses a number ranging from 1 to 100, 
 if the number is correct the player is scored but if the number is
